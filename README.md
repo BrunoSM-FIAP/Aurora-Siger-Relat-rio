@@ -63,6 +63,12 @@ A IDE exibirá o notebook em formato interativo, permitindo visualizar e executa
 Após a instalação das dependências, execute as células do notebook sequencialmente utilizando o botão Run ou o atalho Shift + Enter.
 
 
+## Tecnologias utilizadas
+- Python
+- Scikit-learn
+
+
+
 
 
 
